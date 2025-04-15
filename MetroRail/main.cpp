@@ -60,6 +60,34 @@ void Building1(){
 	glEnd();
 }
 
+
+// static void key(unsigned char key, int x, int y)
+// {
+//     switch (key)
+//     {
+//         case 27 :
+//         case 'q':
+//             exit(0);
+//             break;
+
+//         case '+':
+//             slices++;
+//             stacks++;
+//             break;
+
+//         case '-':
+//             if (slices>3 && stacks>3)
+//             {
+//                 slices--;
+//                 stacks--;
+//             }
+//             break;
+//     }
+
+//     glutPostRedisplay();
+// }
+
+
 //OBJ 03
 void BuildingLine(){
     glLineWidth(3);
