@@ -83,11 +83,9 @@ void Building1(){
 //             }
 //             break;
 //     }
-
+// adadda
 //     glutPostRedisplay();
 // }
-
-
 //OBJ 03
 void BuildingLine(){
     glLineWidth(3);
